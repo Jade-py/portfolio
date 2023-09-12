@@ -366,9 +366,10 @@ h3.my-profession{
 }
 .home .home-img img{
     height: 400px;
+    width: 222px;
     margin: 0;
     padding: 0;
-border-radius: 5px;
+    border-radius: 10px;
 /* box-shadow: 16px 14px 20px #f9024c; */
 /* animation: moveBorder1 2s linear infinite; */
 }
